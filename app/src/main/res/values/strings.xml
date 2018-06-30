@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title">Website Design Basics</string>
+
+    <!--Question 1:-->
+    <string name="header">Question 1:</string>
+    <string name="question1">The two minimum things needed for a website are:</string>
+    <string name="first1">Domain name and domain host</string>
+    <string name="second1">Hosting name and domain host</string>
+    <string name="third1">Money and time</string>
+    <string name="fourth1">Domain name and web hosting</string>
+
+    <!--Question 2:-->
+    <string name="header2">Question 2:</string>
+    <string name="question2">What is a website\'s unique address used to locate the website on the internet?</string>
+    <string name="first2">Domain host</string>
+    <string name="second2">Shared hosting</string>
+    <string name="third2">Domain name</string>
+    <string name="fourth2">Phone number</string>
+
+    <!--Question 3:-->
+    <string name="header3">Question 3:</string>
+    <string name="question3">What is analogous to a phone number?</string>
+    <string name="first3">Domain name</string>
+    <string name="second3">Hosting package</string>
+    <string name="third3">Sim card</string>
+    <string name="fourth3">Site builder</string>
+
+    <!--Question 4:-->
+    <string name="header4">Question 4:</string>
+    <string name="question4">GTLD stands for?</string>
+    <string name="first4">General top level domain</string>
+    <string name="second4">Generational top level domain</string>
+    <string name="third4">Generic top level domain</string>
+    <string name="fourth4">Go to london domain</string>
+
+    <!--Question 5:-->
+    <string name="header5">Question 5:</string>
+    <string name="question5">Which of the following is correct?</string>
+    <string name="first5">Shared hosting is more expensive than dedicated hosting</string>
+    <string name="second5">Dedicated hosting results in more downtime than shared hosting</string>
+    <string name="third5">Shared hosting comes with less bandwidth than dedicated hosting</string>
+    <string name="fourth5">Shared hosting and dedicated hosting are not different</string>
+
+</resources>

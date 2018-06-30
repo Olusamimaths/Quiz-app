@@ -1,0 +1,85 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#5D4037</item>
+        <item name="colorPrimaryDark">#795548</item>
+        <item name="colorAccent">#795548</item>
+    </style>
+
+    <!--Main title of the app-->
+    <style name="main_header" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">#795548</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:text">@string/title</item>
+        <item name="android:textColor">#d7ccc8</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!--The "QUESTION" headers-->
+    <style name="headerStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor"> #757575</item>
+    </style>
+
+    <!--The questions themselves-->
+    <style name="questions" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">16sp</item>>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!--The container for the questions-->
+    <style name="container" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <!--The radio buttons-->
+    <style name="radio" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!--The separator-->
+    <style name="separator" parent="Theme.AppCompat.Light.DarkActionBar">
+       <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#5d4037</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+    </style>
+
+    <!--The submit button-->
+    <style name="btn_submit" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:text">Submit</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#795548</item>
+    </style>
+
+
+
+
+</resources>
