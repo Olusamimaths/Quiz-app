@@ -11,5 +11,5 @@ https://drive.google.com/file/d/11T0iu79FM2v1M-cuQkbVVQvx0ChrHGfD/view?usp=drive
 *****************************************
 About the App
 *****************************************
-The Quiz App is an educational application that quizzes users know their knowledge of basic website design concepts. 
+The Quiz App is an educational application that quizzes users on their knowledge of basic website design concepts. 
 The app has a marking system built into it and so it displays the users score immediatelythe submit. 
